@@ -1,8 +1,8 @@
 # SRSA-GT Source Code
-The present repository includes the source code of our newly proposed SRSA-GT algorithm. The code is written in C# language, and Unity3D is used as the development platform.
+The present repository includes the source code of our proposed SRSA-GT algorithm (https://doi.org/10.1016/j.asoc.2022.108873). The code is written in C# language, and Unity3D is used as the development platform.
 
-## Imporant Note:
-A research paper related to this repository is currently in the review process, and thus the archive is password protected. After the publication of the paper, we will remove the password, and the source code will be publicly available.
+# Note:
+The SRSA algorithm was separately published in our former research paper https://doi.org/10.1016/j.eswa.2021.114907.
 
 
 ## Ready-to-use Version
