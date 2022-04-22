@@ -7,7 +7,7 @@ The SRSA algorithm was separately published in our former research paper https:/
 
 ## Ready-to-use Version
 
-To run the ready-to-use version of the simulator without compilation or building, please refer to our public repository: https://github.com/Khalil-Youssefi/SRSA-GT-Simulator
+To run the ready-to-use version of the simulator without compilation or building, please refer to other our public repository: https://github.com/Khalil-Youssefi/SRSA-GT-Simulator
 
 Please note that this simulator is built for Microsoft Windows.
 
